@@ -1,1 +1,3 @@
-# Stats-Review-Mind-Map
+# 统计复习归纳
+
+资料来源 知乎，可汗学院等
